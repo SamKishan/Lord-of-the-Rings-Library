@@ -1,7 +1,7 @@
 # Lord-of-the-Rings-Library
-# By Sampreet Kishan
+# By Sampy Kishan
 # Spring 2017
-# Contact : Sampreet.Kishan@colorado.edu
+# Contact : saki8093@colorado.edu
 
 This is a web application that allows users to view characters, stories and books of the Lord of the Rings series. Admin can add new users, and new characters. 
 Admin can add new users and new characters. 
